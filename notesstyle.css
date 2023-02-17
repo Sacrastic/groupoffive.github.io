@@ -1,0 +1,36 @@
+fieldset {
+    
+    text-align: center;
+    display: block;
+    width:fit-content;
+    margin: 0px auto;
+    height:fit-content;
+    border-color: rgb(0, 0, 0);
+   background-color:  #1d2227;
+    border: 2px groove (internal value);
+  }
+  body{
+    
+       background-repeat:repeat;
+       background-position:center;
+       background-size:cover;
+       height:100%;
+       width:100%;
+}
+.fieldsetlink a{  
+    font-weight: bolder;
+    font-size: 40px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    
+}
+fieldset{
+    border-radius: 20px;
+    box-shadow: 10px 10px rgb(133, 140, 143);
+
+}
+img{
+    width: 250px;
+    height: 250px;
+  }
